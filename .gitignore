@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+env/
+runs/
+output.avi
+target/
